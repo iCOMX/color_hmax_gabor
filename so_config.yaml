@@ -1,0 +1,12 @@
+orients: [0, 90]
+div_range: [4, 3.2]
+receptive_field_size: 11
+phases: [0]
+num_channel: 8
+scaling: 1
+sigma_contrast: 0.225
+channel_names: ['R^+-G^-', 'R^+-C^-', 'Y^+-B^-', 'Wh', 'G^+-R^-',
+              'C^+-R^-', 'B^+-Y^-', 'Bl']
+
+
+img_path: '/home/kalpit/color_hmax/descriptors/blue-sky.jpg'
